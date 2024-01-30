@@ -720,7 +720,7 @@ This repository contains the implementation and analysis of two advanced unsuper
 - Random Projection
 
 ## Notebooks 📓
-- `Anomaly_Transformer.ipynb`: Training and testing the Anomaly-Transformer model.
+- `Anomaly_Transformer.ipynb`: Training and testing the Anomaly-Transformer model. 
 - `MUTANT.ipynb`: Training and testing the MUTANT model.
 - `ApplyDimensionalityReduction.ipynb`: Application of various dimensionality reduction techniques to the datasets.
 
@@ -735,6 +735,10 @@ The `data` directory contains the following datasets used for empirical analysis
 
 ## How to Use 🔧
 Each Jupyter Notebook is self-contained and includes the necessary code for model training, testing, and applying dimensionality reduction techniques. Follow the steps in each notebook to replicate the experiments.
+
+### Important Note 🗒️
+
+While running the Anomaly-Transformer model, please change the file `Anomaly-Transformer/data_factory/data_loader.py`.
 
 ## Key Findings 💡
 - Significant enhancement in anomaly detection performance with dimensionality reduction.
