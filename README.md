@@ -736,7 +736,7 @@ The `data` directory contains the following datasets used for empirical analysis
 ## How to Use 🔧
 Each Jupyter Notebook is self-contained and includes the necessary code for model training, testing, and applying dimensionality reduction techniques. Follow the steps in each notebook to replicate the experiments.
 
-### Important Note 🗒️
+### Important Note 🗒️
 
 While running the Anomaly-Transformer model, please change the file `Anomaly-Transformer/data_factory/data_loader.py`.
 
